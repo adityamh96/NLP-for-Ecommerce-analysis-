@@ -15,7 +15,7 @@
 
 2.	The second main objective of the project included predicting product categories based on just the reviews given by the users.
 
-## Models:
+## Models implemented:
 
 • KNN
 
