@@ -14,3 +14,15 @@
 1.	The main objective of the project was finding similarities between users based on text reviews provided by them for a particular product category. 
 
 2.	The second main objective of the project included predicting product categories based on just the reviews given by the users.
+
+## Models:
+
+• KNN
+
+• Naive Bayes
+
+• Keras Sequential model
+
+• CNN
+
+• LSTM (RNN)
